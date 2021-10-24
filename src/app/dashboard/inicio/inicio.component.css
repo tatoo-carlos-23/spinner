@@ -1,0 +1,13 @@
+.xd{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.xd>p{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
